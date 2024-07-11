@@ -13,7 +13,7 @@ import java.util.Map;
 import static io.restassured.RestAssured.given;
 
 public class GitHubProject {
-    static String auth = "token " + "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";
+    static String auth = ;
     static String baseURL = "https://api.github.com";
     static int sshId;
     static RequestSpecification reqSpec;
